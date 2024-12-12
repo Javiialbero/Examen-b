@@ -1,0 +1,60 @@
+
+body.body{
+    background-color: burlywood;
+}
+div.todo{
+   
+}
+div.imagen1{
+    text-align: center;
+    
+
+}
+p.links{
+    text-align: center;
+    color: green;
+    background-color: aquamarine;
+}
+div.seccio1{
+    background-color: white;
+    height: 200px;
+    border-bottom: 0;
+    
+}
+
+p.parrafo{
+    border: solid 23px blue;
+    border-left: 1px;
+    border-right: 1px;
+    margin-left: -1%;
+    margin-bottom: 0%;
+    color: blue;
+    font-size: 20px;
+}
+div.imagen2{
+    margin-top: 4%;
+    
+}
+div.seccion2{
+    background-color: aquamarine;
+}
+p.parrafo2{
+    border: solid 23px red;
+    border-left: 1px;
+    border-right: 1px;
+    margin-left: 0%;
+    margin-bottom: 0%;
+    color: red;
+    font-size: 20px;
+}
+
+footer.footer{
+    text-align: center;
+}
+hr.hr{
+    margin-top: 5%;
+    border: solid 1px;
+}
+div.todo2{
+    background-color: gold;
+}
